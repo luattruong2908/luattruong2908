@@ -13,8 +13,7 @@
 
 ---
 
-### 📫 Contact me via:
-- EMAIL: luattruong2908@gmail.com
+### 📫 Contact me via: luattruong2908@gmail.com
 
 <p align="center">
   <img src="coding-freak.gif?raw=true"/>
