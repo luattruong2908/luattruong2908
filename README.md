@@ -6,7 +6,7 @@
 - ❤️ In love !!!
 
 <p align="center">
-  <img src=".github/assets/coding-freak.gif?raw=true"/>
+  <img src="coding-freak.gif?raw=true"/>
 </p>
 
 ### Languages and Tools:
