@@ -1,7 +1,7 @@
-### Hi, I'm TRUONG LUAT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - Python AI Engineer 🤖 💻
+### Hi, I'm TRUONG LUAT <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - PYTHON AI DEVELOPER 🤖 💻
 
 
-- 💪 2022 - Graduated from Bach Khoa University and try to be successful
+- 💪 2022 - Graduated from Bach Khoa University and try to be successful 💪
 - ⭐: Videos game and social activities like traveling, eating, karaoke,...
 - ❤️ In love !!!
 
